@@ -1,0 +1,6 @@
+c:\users\sabina\documents\visual studio 2015\Projects\Kalku\Kalku\bin\Debug\Kalku.exe.config
+c:\users\sabina\documents\visual studio 2015\Projects\Kalku\Kalku\bin\Debug\Kalku.exe
+c:\users\sabina\documents\visual studio 2015\Projects\Kalku\Kalku\bin\Debug\Kalku.pdb
+c:\users\sabina\documents\visual studio 2015\Projects\Kalku\Kalku\obj\Debug\Kalku.csprojResolveAssemblyReference.cache
+c:\users\sabina\documents\visual studio 2015\Projects\Kalku\Kalku\obj\Debug\Kalku.exe
+c:\users\sabina\documents\visual studio 2015\Projects\Kalku\Kalku\obj\Debug\Kalku.pdb
